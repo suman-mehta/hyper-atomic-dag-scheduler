@@ -1,0 +1,22 @@
+{
+  "name": "hyper-atomic-dag-scheduler",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Zero‑dependency, lock‑free, distributed DAG scheduler for ultra‑low‑latency Node.js clusters",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "keywords": [
+    "developer-tools",
+    "systems",
+    "high-performance",
+    "nodejs",
+    "concurrency",
+    "dag",
+    "scheduler"
+  ]
+}
